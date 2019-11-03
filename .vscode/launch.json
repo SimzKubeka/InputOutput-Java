@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFile2",
+            "request": "launch",
+            "mainClass": "MyFile2",
+            "projectName": "Comp Task 1_72c9f0e9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFile",
+            "request": "launch",
+            "mainClass": "MyFile"
+        }
+    ]
+}
